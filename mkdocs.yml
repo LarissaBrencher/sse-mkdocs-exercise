@@ -6,3 +6,17 @@ nav:
         - 'Getting Started': 'how-to.md'
 repo_url: https://github.com/LarissaBrencher/sse-mkdocs-exercise/
 site_author: Larissa Brencher
+theme:
+    name: readthedocs
+    nav_style: dark
+    shortcuts:
+        help: 191    # ?
+        next: 78     # n
+        previous: 80 # p
+        search: 83   # s
+    locale: en
+    highlightsjs: true
+    hljs_languages:
+        - c++
+        - md
+        - python
