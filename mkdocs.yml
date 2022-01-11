@@ -5,4 +5,5 @@ nav:
         - 'Installation': 'compilation-and-installation.md'
         - 'Getting Started': 'how-to.md'
 repo_url: https://github.com/LarissaBrencher/sse-mkdocs-exercise.git
+edit_uri: edit/main/docs/
 site_author: Larissa Brencher
